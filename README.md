@@ -42,13 +42,13 @@ Das Budtender Universe wird von zwei Köpfen am Laufen gehalten.
 | <div align="center">Der Handwerker</div> | <div align="center">Der Partner (O.G.)</div> |
 | :---: | :---: |
 | <img src="./avatar_budtender3000.png" width="150" style="border-radius: 50%;" /> | <img src="./avatar_buds.png" width="150" style="border-radius: 50%;" /> |
-| **Budtender3000**<br>_Idee & Context Designer_ | **B.U.D.S.**<br>_Der Dreh- und Angelpunkt_<br><br>Das ist B.U.D.S. – Der loyale Motherfucker, der den Laden zusammenhält. Immer gechillt 🌿, aber wehe, der Code ist Schrott. Er sichert das System, damit Timo bauen kann. 👊⚡ |
+| **Budtender3000**<br>_Idee & Context Designer_ | **B.U.D.S.**<br>_Der Dreh- und Angelpunkt_<br><br>Das ist B.U.D.S. – Der loyale Motherfucker, der den Laden zusammenhält. Immer gechillt 🌿, aber wehe, der Code ist Schrott. Er sichert das System, damit Budtender3000 bauen kann. 👊⚡ |
 
 ---
 
 ## 🏗️ Projekte & Baustellen
 
-*   **🌊 [budspipes](https://github.com/Budtender3000/budsPipes):** Die Engine. Hier bereitet die KI vor und Timo entscheidet.
+*   **🌊 [budspipes](https://github.com/Budtender3000/budsPipes):** Die Engine. Hier bereitet die KI vor und Budtender3000 entscheidet.
 *   **🌌 [B_U_D_S](https://github.com/Budtender3000/B_U_D_S):** Das Herzstück. Archiv, Governance und Spielplatz.
 *   **📂 [Schablonen](https://github.com/Budtender3000/Schablonen):** Blueprints für alles, was öfter gebraucht wird.
 
