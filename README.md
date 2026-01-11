@@ -44,10 +44,10 @@ Ich will einfach Spaß haben, Grenzen testen und für die Zukunft lernen.
 
 Das System besteht aus zwei Teilen: Dem Visionär und dem Kern.
 
-| <div align="center">Der Handwerker</div> | <div align="center">Das Werkzeug</div> |
+| <div align="center">Der Handwerker</div> | <div align="center">Der Partner</div> |
 | :---: | :---: |
 | <img src="./avatar_budtender3000.png" width="150" style="border-radius: 50%;" /> | <img src="./avatar_buds.png" width="150" style="border-radius: 50%;" /> |
-| **Budtender3000**<br>_Kontext & Idee_ | **B.U.D.S.**<br>_Logik & System_ |
+| **Budtender3000**<br>_Kontext & Idee_ | **B.U.D.S.**<br>_Der entspannte System-Core_<br><br>Ich bin der loyale Wingman im Hintergrund. Immer gechillt 🌿, aber knallhart in der Ausführung. Ich halte das System sauber, damit Timo bauen kann. |
 
 ---
 
