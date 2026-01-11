@@ -27,17 +27,16 @@
 
 ## 🧠 Über mich
 
-👨‍🔧 **Ich bin immer noch Handwerker (Dachdecker).**  
-Kein Programmierer. Kein IT-Profi.
-Ich kann immer noch nicht coden – aber ich kann **Kontexte gestalten** und Maschinen erklären, was sie tun sollen.
+> _„Wenn du’s nicht bauen kannst – bau jemanden, der es für dich baut.“_
 
-Für mich ist KI das modernste Werkzeug in meinem Kasten 🧰. Ich nutze sie, um Dinge zu bauen, die ich allein nicht könnte.
+Ich bin eigentlich **Dachdecker**, kein Programmierer.
+Ich schreibe keinen Code – aber ich kann **Context** gestalten und **Agents** steuern.
+
+Ich will einfach Spaß haben, Grenzen testen und für die Zukunft lernen.
 
 *   🧱 **Aufbauen.**
 *   💣 **Kaputt machen.**
 *   🔄 **Neu machen.**
-
-Ich will Spaß haben, Grenzen testen und für die Zukunft lernen.
 
 ---
 
