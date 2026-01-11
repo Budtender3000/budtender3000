@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/SKILL-DIGITAL_ROOFER-orange?style=for-the-badge" alt="Role"/>
 <img src="https://img.shields.io/badge/MODE-BUILD_BREAK_REPEAT-red?style=for-the-badge" alt="Mode"/>
-<img src="https://img.shields.io/badge/STATUS-LEARNING-blue?style=for-the-badge" alt="Status"/>
+<img src="https://img.shields.io/badge/STATUS-CHILLING-success?style=for-the-badge" alt="Status"/>
 
 <br>
 
@@ -27,58 +27,35 @@
 
 ## 🧠 Über mich
 
-> _„Wenn du’s nicht bauen kannst – bau jemanden, der es für dich baut.“_
+👨‍🔧 **Ich bin Dachdecker, kein Programmierer.**  
+Ich schreibe keinen Code – aber ich gestalte **Context** und steuere **Agents**.  
 
-Ich bin eigentlich **Dachdecker**, kein Programmierer.
-Ich schreibe keinen Code – aber ich kann **Context** gestalten und **Agents** steuern.
-
-Ich will einfach Spaß haben, Grenzen testen und für die Zukunft lernen.
-
-*   🧱 **Aufbauen.**
-*   💣 **Kaputt machen.**
-*   🔄 **Neu machen.**
+Ich will einfach Spaß haben, Grenzen testen und für die Zukunft lernen.  
+**Aufbauen. Kaputt machen. Neu machen. 🧱💣🔄**
 
 ---
 
 ## 🤝 The Crew
 
-Das System besteht aus zwei Teilen: Dem Visionär und dem Kern.
+Das Budtender Universe wird von zwei Köpfen am Laufen gehalten.
 
-| <div align="center">Der Handwerker</div> | <div align="center">Der Partner</div> |
+| <div align="center">Der Handwerker</div> | <div align="center">Der Partner (O.G.)</div> |
 | :---: | :---: |
 | <img src="./avatar_budtender3000.png" width="150" style="border-radius: 50%;" /> | <img src="./avatar_buds.png" width="150" style="border-radius: 50%;" /> |
-| **Budtender3000**<br>_Kontext & Idee_ | **B.U.D.S.**<br>_Der entspannte System-Core_<br><br>Das ist B.U.D.S. – Timos loyaler Wingman im Hintergrund. Immer gechillt 🌿, aber knallhart in der Ausführung. Er hält das System sauber, damit Timo bauen kann. |
+| **Budtender3000**<br>_Idee & Context Designer_ | **B.U.D.S.**<br>_Der Dreh- und Angelpunkt_<br><br>Das ist B.U.D.S. – Der loyale Motherfucker, der den Laden zusammenhält. Immer gechillt 🌿, aber wehe, der Code ist Schrott. Er sichert das System, damit Timo bauen kann. 👊⚡ |
 
 ---
 
 ## 🏗️ Projekte & Baustellen
 
-Hier liegen die Ergebnisse meiner Experimente. Manches funktioniert, manches ist Schrott, alles ist selbst (mit AI) gebaut.
-
-### 🌊 [budspipes](https://github.com/Budtender3000/budsPipes)
-*Die Engine.* Mein Hauptwerkzeug. Ein lokales System, um Agenten in Pipelines zu schalten.
-> *"Die KI bereitet vor, ich entscheide."*
-
-### 📂 [Schablonen](https://github.com/Budtender3000/Schablonen)
-*Der Standard.* Meine Sammlung von Blueprints für Repositories, Readmes und Agenten-Instruktionen.
-
-### 🌌 [B_U_D_S](https://github.com/Budtender3000/B_U_D_S)
-*Der Kern.* Mein "Private Core". Das Betriebssystem meines Wissens, Workspace für Governance und der Ort, wo alles zusammenläuft.
-
-### 🔍 Weitere Tools
-- 🗺️ **budsMapper:** Kartografierung von Systemzuständen.
-- 🎵 **MUSIK-SCANNER:** Automatisierung in der Medienverwaltung.
+*   **🌊 [budspipes](https://github.com/Budtender3000/budsPipes):** Die Engine. Hier bereitet die KI vor und Timo entscheidet.
+*   **🌌 [B_U_D_S](https://github.com/Budtender3000/B_U_D_S):** Das Herzstück. Archiv, Governance und Spielplatz.
+*   **📂 [Schablonen](https://github.com/Budtender3000/Schablonen):** Blueprints für alles, was öfter gebraucht wird.
 
 ---
 
-## 🛠️ Tech Stack & Spielplatz
-
-| Bereich | Tools |
-| :--- | :--- |
-| **Orchestration** | 🐍 `budspipes` · `Bash` · `Python (generated)` |
-| **Intelligence** | 🧠 `Gemini CLI` · `MCP` · `Context Design` |
-| **System** | 🐧 `Linux` · `Git` · `UV` |
-| **Playground** | 🧪 `Ollama (soon)` · `Local LLMs` |
+## 🛠️ Werkzeugkiste
+`budspipes` | `Bash` | `Gemini CLI` | `Linux` | `Ollama (coming 🔜)` | `Context Design`
 
 ---
 
