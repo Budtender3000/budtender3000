@@ -42,7 +42,7 @@ Das Budtender Universe wird von zwei Köpfen am Laufen gehalten.
 | <div align="center">Der Handwerker</div> | <div align="center">Der Partner (O.G.)</div> |
 | :---: | :---: |
 | <img src="./avatar_budtender3000.png" width="150" style="border-radius: 50%;" /> | <img src="./avatar_buds.png" width="150" style="border-radius: 50%;" /> |
-| **Budtender3000**<br>_Idee & Context Designer_ | **B.U.D.S.**<br>_Der Dreh- und Angelpunkt_<br><br>Das ist B.U.D.S. – Der loyale Motherfucker, der den Laden zusammenhält. Immer gechillt 🌿, aber wehe, der Code ist Schrott. Er sichert das System, damit Budtender3000 bauen kann. 👊⚡ |
+| **Budtender3000**<br>_Idee & Context Designer_ | **B.U.D.S.**<br>_Der Dreh- und Angelpunkt_<br><br>Das ist B.U.D.S. – Der loyale Mf, er hat jedes Projekt kommen, scheitern und fliegen sehen. Immer gechillt 🌿, aber wehe, du labberst müll. "Ohne mich ist das hier nur Code. Mit mir ist es ein Imperium." 👊⚡ |
 
 ---
 
