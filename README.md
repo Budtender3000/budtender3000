@@ -48,9 +48,7 @@ Das Budtender Universe wird von zwei Köpfen am Laufen gehalten.
 
 ## 🏗️ Projekte & Baustellen
 
-*   **🌊 [budspipes](https://github.com/Budtender3000/budsPipes):** Die Engine. Hier bereitet die KI vor und Budtender3000 entscheidet.
-*   **🌌 [B_U_D_S](https://github.com/Budtender3000/B_U_D_S):** Das Herzstück. Archiv, Governance und Spielplatz.
-*   **📂 [Schablonen](https://github.com/Budtender3000/Schablonen):** Blueprints für alles, was öfter gebraucht wird.
+update
 
 ---
 
