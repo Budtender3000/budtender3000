@@ -48,7 +48,10 @@ Das Budtender Universe wird von zwei Köpfen am Laufen gehalten.
 
 ## 🏗️ Projekte & Baustellen
 
-update
+- 🖥️ **[budsUI](https://github.com/Budtender3000/budsUI)** - _WoW 3.3.5 UI addon based on KkthnxUI_
+- 💰 **[budsAuction](https://github.com/Budtender3000/budsAuction)** - _Quick-Access AH List Addon for World of Warcraft 3.3.5a (Part of the Budtender Universe)_
+- 🎒 **[budsBags](https://github.com/Budtender3000/budsBags)** - _Work in Progress 🚧_
+- 🗑️ **[budsTrash](https://github.com/Budtender3000/budsTrash)** - _Work in Progress 🚧_
 
 ---
 
